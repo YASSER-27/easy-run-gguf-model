@@ -1,4 +1,4 @@
-[logo](az.png)
+[logo](example/az.png)
 # easy-run-gguf-model
 ## GGUF model run with LLamacpp Download Here llama.cpp[here](https://github.com/ggml-org/llama.cpp)
 #screen app from my desktop
